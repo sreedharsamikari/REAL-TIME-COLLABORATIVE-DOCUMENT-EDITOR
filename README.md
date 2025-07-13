@@ -122,3 +122,5 @@ The application uses resources efficiently, with smart caching and optimization 
 The architecture can scale to support large numbers of users and documents. The database and server infrastructure can be expanded as usage grows.
 
 output:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e1eaf85a-2d76-4277-81a7-3b7b9cd63c83" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3a7a1f60-a6ec-4d2d-a8f0-14f94a3a963f" />
